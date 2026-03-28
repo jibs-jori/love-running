@@ -75,7 +75,7 @@ nav {
 }
 
 #nav-toggle {
-    font-display: none;
+    display: none;
 }
 
 .nav-toggle-label {
